@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# RapeSenpai
+# 雷普先辈
 **新概念Home游戏**
 </div>
 
